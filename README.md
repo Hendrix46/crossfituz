@@ -1,3 +1,5 @@
+This project is Fitness blog website, users can read news and blogs about fitness, and admin can upload new files and blog data into website.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

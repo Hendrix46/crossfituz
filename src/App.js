@@ -12,7 +12,6 @@ import News from "./components/pages/News/news";
 
 
 const App = () => {
-
     return (
         <div>
             <Switch>
