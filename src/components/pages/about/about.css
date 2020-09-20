@@ -1,0 +1,141 @@
+.abtimg {
+    width: 100%;
+    height: 200px;
+}
+
+.intro
+{
+    background: #ffffff;
+    padding-top: 127px;
+    padding-bottom: 105px;
+}
+
+
+.intro-text p{
+    font-size: 15px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.7);
+}
+.intro_image
+{
+    height: 100%;
+}
+.intro_image > img
+{
+    width: 457px!important;
+    height: 362px!important;
+}
+ h1{
+    font-size: 65px!important;
+    font-weight: 600;
+}
+.section-title span{
+    color: green!important;
+}
+.faq
+{
+    margin-top: 100px!important;
+    background: #1d1f2a;
+    padding-top: 89px;
+    padding-bottom: 68px;
+}
+.faq .section_title h1
+{
+    color: #ffffff;
+}
+.faq_row
+{
+    margin-top: 48px;
+}
+.faq_item
+{
+    margin-bottom: 27px;
+}
+.faq_icon
+{
+    width: 61px;
+    height: 61px;
+    border-radius: 50%;
+    background: #ff9908;
+    -webkit-flex: 0 0 auto;
+    flex: 0 0 auto;
+}
+.faq_icon > div
+{
+    width: 41px;
+    height: 41px;
+}
+.faq_icon > div > img
+{
+    max-height: 100%;
+}
+.faq_item_content
+{
+    padding-left: 25px;
+    padding-top: 14px;
+}
+.faqtitle h1
+{
+    font-size: 65px;
+    font-weight: 700;
+    color: #ffffff;
+}
+.faq_title
+{
+    font-size: 18px;
+    font-weight: 700;
+    color: #ffffff;
+}
+.faq_text
+{
+    margin-top: 14px;
+}
+.faq_text p
+{
+    font-size: 15px;
+    font-weight: 400;
+    color: #64677c;
+}
+.sub.container_reset > .container
+{
+    max-width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+}
+.sub.container_reset > .container > .row
+{
+    margin-left: 0;
+    margin-right: 0;
+}
+.sub.container_reset > .container > .row > div[class^="col"]
+{
+    padding-left: 0;
+    padding-right: 0;
+}
+.sub_content
+{
+    max-width: 650px;
+    padding-top: 234px;
+    padding-bottom: 123px;
+    margin-left: -50px;
+    padding-right: 100px;
+}
+
+.sub_button
+{
+    width: 60%;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.sub_text
+{
+    margin-top: 30px;
+}
+.sub_image
+{
+    position: absolute;
+    right: 109px;
+    bottom: 0;
+    width: 701px;
+    height: 625px;
+}

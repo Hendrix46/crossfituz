@@ -1,0 +1,42 @@
+.portfolio{
+    width: 1400px;
+    padding-top: 104px;
+    padding-bottom: 105px;
+    padding-left: 47px;
+    padding-right: 43px;
+    background: #1d1f2a;
+}
+.portslide > a{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 50%;
+    z-index: 1;
+}
+.portslide img:first-child{
+    width: 410px;
+    height: 420px;
+}
+.overlay{
+    position: absolute;
+    top: 100px;
+    left: 47px;
+    width: 89.5%;
+    height: 68%;
+    border:5px solid #ff7f0b;
+    background: rgba(29,31,42, 0.8);
+    visibility: hidden;
+    opacity: 0;
+    transition: 0.33s all ease-in-out;
+    color: white;
+    cursor: pointer;
+}
+.porthover:hover .overlay{
+    visibility: visible;
+    opacity: 1;
+}
+.overlay img{
+    width: 34px!important;
+    height: 37px!important;
+}

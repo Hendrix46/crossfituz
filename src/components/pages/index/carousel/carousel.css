@@ -1,0 +1,23 @@
+.carousel{
+    height: 500px!important;
+}
+img{
+
+    object-fit: cover!important;
+    object-position: center!important;
+}
+.item{
+    position: relative;
+}
+
+.item:before{
+    font-family: "League Gothic";
+    position: absolute;
+    content: "Don't stop  when you tired.  Stop when you're DONE";
+    color: white;
+    margin-top: 185px!important;
+    width: 250px;
+    font-weight: bold;
+    font-size: 48px;
+    margin-left: 100px;
+}

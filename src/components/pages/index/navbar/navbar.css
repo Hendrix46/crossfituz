@@ -1,0 +1,34 @@
+*{
+    font-family: Arial;
+
+}
+a{
+    text-decoration: none!important;
+}
+.navbar{
+    background-color: black;
+    height: 100px!important;
+    border-bottom: 2px solid #ff7f0b;
+
+}
+a, a:hover{
+    color: white!important;
+}
+.collapse{
+    margin-left: 200px!important;
+}
+.navbar-nav li{
+    font-size: 16px;
+    color: white!important;
+}
+.navbar-brand h2{
+    font-weight: bold;
+    color: darkorange;
+}
+.navbar-brand span{
+    color: green;
+}
+.navbar-brand h6{
+    top: 0;
+    margin-top: -10px;
+}

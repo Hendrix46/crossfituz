@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900');
+
+*{
+    font-family: Roboto, sans-serif;
+}
+.icontent{
+    width: 100%;
+    background-color: #1D1F2A;
+    margin: 0;
+
+}
+.col-md-3 .icimg{
+    width: 80px ;
+    margin-left: 110px;
+
+}
+.row p{
+    font-size: 14px;
+    color: #8E8F8E!important;
+    line-height: 5vh;
+
+}
+.icontent .col-md-3{
+    box-sizing: border-box;
+}

@@ -1,0 +1,27 @@
+.testimonal h1{
+    font-size: 65px!important;
+    font-weight: 600;
+
+
+}
+.testimonaltxt{
+    margin: auto!important;
+    width: 800px!important;
+}
+.testimonaltxt p{
+    font-size: 18px;
+    font-weight: 500;
+    color: rgba(0 ,0 , 0, 0.7);
+    font-style: italic;
+}
+.testimonalimg{
+    text-align: center;
+}
+.testimonalimg img{
+    border-radius: 50% !important;
+
+}
+.testimonalimg p{
+    color: #ff7f0b;
+    font-weight: 500;
+}

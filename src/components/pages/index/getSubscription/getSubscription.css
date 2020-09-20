@@ -1,0 +1,65 @@
+.gts{
+    background-color: white;
+
+
+}
+.get{
+    margin-top: 150px;
+    font-size: 66px;
+    font-weight: bolder;
+
+}
+.subtext{
+    margin-top: 20px;
+    font-size: 16px!important;
+
+
+}
+.gts img{
+        width: 750px;
+        height: 950px;
+
+
+}
+.d-flex p{
+    font-size: 16px;
+
+}
+.ok{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border : solid 2px #ff9908;
+
+
+
+}
+.ok img{
+    width: 20px;
+    height:20px;
+    object-fit: contain!important;
+    object-position: center!important;
+    margin-left: 4px;
+    margin-top: 2px;
+
+
+}
+.get-started{
+    width: 150px;
+    height: 50px;
+    background-color: #ff7f0b;
+    box-sizing: border-box;
+    text-align: center;
+    line-height: 50px;
+
+}
+.get-started:hover{
+    background-color: orangered!important;
+    transition: 0.33s all ease-in-out;
+    text-decoration: none;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-shadow: rgba(0,0,0,.01) 0 0 1px;
+    text-shadow: rgba(0,0,0,.01) 0 0 1px;
+
+}
+
